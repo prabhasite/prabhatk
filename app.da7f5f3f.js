@@ -1358,26 +1358,7 @@
                     a = e._self._c || t;
                 return a("footer", {
                     staticClass: "footer"
-                }, [a("div", {
-                    staticClass: "columns is-mobile is-centered"
-                }, [a("div", {
-                    staticClass: "field is-grouped is-grouped-multiline"
-                }, [a("div", {
-                    staticClass: "control"
-                }, [a("div", {
-                    staticClass: "tags has-addons"
-                }, [a("a", {
-                    staticClass: "tag is-dark",
-                    attrs: {
-                        href: "https://github.com/Aicirou/goindex-theme-acrou"
-                    }
-                }, [e._v("goindex-theme-acrou")]), a("span", {
-                    staticClass: "tag is-light"
-                }, [e._v(" MIT "), a("span", {
-                    staticClass: "icon"
-                }, [a("i", {
-                    staticClass: "fa fa-github"
-                })])])])])])])])
+                })
             }],
             o = {
                 props: {},
